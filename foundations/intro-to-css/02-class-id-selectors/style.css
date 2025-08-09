@@ -5,9 +5,15 @@
 
 #two {
     color: rgb(20, 150, 225);
-    font-size: 32px;
+    font-size: 36px;
 }
 
 .cool {
     font-size: 24px;
+}
+
+#four {
+    background-color: rgb(30, 230, 150);
+    font-size: 24px;
+    font-weight: bold;
 }
